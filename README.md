@@ -1,6 +1,6 @@
 # Projects-Topics-2023
 
-## Arrtificial Intellegence 
+## Artificial Intelligence
 
 - AI-based predictive maintenance for industrial equipment
 - AI-powered crop yield prediction and optimization
